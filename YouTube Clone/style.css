@@ -7,3 +7,9 @@
 html,body{
   font-weight:400;
 }
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
