@@ -40,3 +40,15 @@ nav {
   border: none;
   padding: 10px 20px;
 }
+
+.mic {
+  padding: 15px;
+  border-radius: 50%;
+  background: rgb(240, 239, 239);
+  display: grid;
+  place-items: center;
+  margin-left: 15px;
+}
+.mic img {
+  width: 30px;
+}
