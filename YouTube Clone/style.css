@@ -72,3 +72,12 @@ nav {
   border-radius: 20px;
   border: 1px solid rgb(22, 22, 22);
 }
+
+.dark {
+  background: #000;
+  color: white;
+}
+.light {
+  background: rgb(238, 238, 238);
+  color: rgb(67, 67, 67);
+}
