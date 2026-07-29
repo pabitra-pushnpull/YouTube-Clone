@@ -115,3 +115,8 @@ aside {
 .main-container {
   width: 100%;
 }
+
+main {
+  min-height: 100vh;
+  background: rgb(240, 238, 238);
+}
