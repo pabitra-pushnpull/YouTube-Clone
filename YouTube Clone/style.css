@@ -120,3 +120,8 @@ main {
   min-height: 100vh;
   background: rgb(240, 238, 238);
 }
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
