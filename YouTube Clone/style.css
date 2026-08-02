@@ -125,3 +125,10 @@ main {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 }
+
+.card {
+  padding: 10px;
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+}
