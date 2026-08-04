@@ -138,3 +138,7 @@ main {
   display: flex;
   gap: 5px;
 }
+
+.card h3 {
+  font-size: 20px;
+}
