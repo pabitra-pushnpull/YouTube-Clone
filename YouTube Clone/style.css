@@ -142,3 +142,9 @@ main {
 .card h3 {
   font-size: 20px;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
